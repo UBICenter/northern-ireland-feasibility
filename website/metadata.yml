@@ -2,11 +2,11 @@ layout: post
 current: post
 cover:
 navigation: True
-title: "An interesting post"
-date: 2021-06-15
-tags: []
+title: Northern Ireland UBI Feasibility Study
+date: 2022-08-31
+tags: [northern-ireland, uk]
 subclass: "post"
-author: nikhil
-excerpt: "Some interesting excerpt."
+author: [nikhil, max]
+excerpt: New research supported by UBI Labs NI.
 class: post-template
 useplotly: true
